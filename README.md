@@ -1,6 +1,8 @@
-
-![SkivHisink's GitHub stats](https://github-readme-stats-one-gules.vercel.app/api?username=SkivHisink&theme=midnight-purple&count_private=true)
-
-<br>
-
-[![Top Langs](https://github-readme-stats-one-gules.vercel.app/api/top-langs/?username=SkivHisink&hide=html,C,Objective-C&count_private=true&langs_count=9&theme=midnight-purple&layout=compact)](https://github.com/SkivHisink/github-readme-stats)
+<div>
+  <a href="https://github.com/SkivHisink">
+ <img align="left" height="238" alt="SkivHisink's GitHub stats" src="https://github-readme-stats-one-gules.vercel.app/api?username=SkivHisink&theme=midnight-purple&count_private=true"/>
+  </a>
+  <a href="https://github.com/qwerty541">
+ <img height="238" alt="Top languages stats" src="https://github-readme-stats-one-gules.vercel.app/api/top-langs/?username=SkivHisink&count_private=true&langs_count=9&layout=compact&theme=midnight-purple&hide=html,Objective-C)](https://github.com/SkivHisink/github-readme-stats)"/>
+  </a>
+</div>
