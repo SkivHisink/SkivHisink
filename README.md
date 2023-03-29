@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/SkivHisink)
 <div>
   <a href="https://www.interpol.int/">
  <img align="left" height="300" width="400" alt="SkivHisink's GitHub stats" src="https://github-readme-stats-one-gules.vercel.app/api?username=SkivHisink&theme=midnight-purple&count_private=true&hide_border=true"/>
