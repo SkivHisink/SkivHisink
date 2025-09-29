@@ -27,7 +27,7 @@ Multithreaded video capture system supporting simultaneous screen recordings.
 Lightweight deep learning library in C++ (linear layers, sigmoid activation, MSE loss).  
 
 🔹 [**ParallelQuickSort**](https://github.com/SkivHisink/ParallelQuickSort)  
-High-performance parallel sorting algorithm implemented with OpenMP.  
+High-performance parallel sorting algorithm.  
 
 🔹 [**0x0000dead/Irvin-curves**](https://github.com/0x0000dead/Irvin-curves)  
 Qt-based app for plotting semiconductor n-type curves: Irvin, mobility, conductivity.  
