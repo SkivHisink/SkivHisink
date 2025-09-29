@@ -47,8 +47,9 @@ Qt-based app for plotting semiconductor n-type curves: Irvin, mobility, conducti
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SkivHisink&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkivHisink&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkivHisink&layout=compact&theme=radical&hide=jupyter%20notebook" height="150"/>
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SkivHisink&theme=radical&row=1&column=6"/>
