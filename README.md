@@ -47,7 +47,17 @@ Qt-based app for plotting semiconductor n-type curves: Irvin, mobility, conducti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SkivHisink&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" height="170"/>
+  <img src="https://raw.githubusercontent.com/SkivHisink/SkivHisink/main/profile-summary-card-output/radical/3-stats.svg" height="190"/>
+  <img src="https://streak-stats.demolab.com?user=SkivHisink&theme=radical&hide_border=false&date_format=j%20M%5B%20Y%5D" height="190"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SkivHisink/SkivHisink/main/profile-summary-card-output/radical/1-repos-per-language.svg" height="200"/>
+  <img src="https://raw.githubusercontent.com/SkivHisink/SkivHisink/main/profile-summary-card-output/radical/2-most-commit-language.svg" height="200"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SkivHisink/SkivHisink/main/profile-summary-card-output/radical/4-productive-time.svg" height="200"/>
 </p>
 
 <p align="center">
